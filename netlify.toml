@@ -1,0 +1,77 @@
+[build]
+  command = "yarn build"
+  publish = "src/.vuepress/dist"
+[build.environment]
+  NODE_VERSION = "14"
+
+[[redirects]]
+  from = "/chat"
+  to = "https://bit.ly/linktree-stan"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/devstory"
+  to = "https://bit.ly/md-devstory"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/meet"
+  to = "https://bit.ly/meet-md"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/call"
+  to = "https://whereby.com/stanmd"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/learn/math"
+  to = "https://bit.ly/MD-math"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kingdombiz"
+  to = "https://bit.ly/KB-home"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kingdombiz/tech"
+  to = "https://bit.ly/KB-with-tech"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kingdombiz/lens"
+  to = "https://bit.ly/KB-bible-lens"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kingdombiz/gallery"
+  to = "https://bit.ly/KB-gallery"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/web-diy"
+  to = "https://bit.ly/2SlGvnF"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cv"
+  to = "https://bit.ly/cv-md-eng"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/writing-cv"
+  to = "https://bit.ly/write-cv-md"
+  status = 301
+  force = true

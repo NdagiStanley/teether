@@ -1,0 +1,53 @@
+:root {
+  scroll-behavior: smooth;
+  --c-brand: #008080;
+  --c-brand-light: #008090;
+}
+
+html.dark {
+  // brand colors
+  --c-brand: #008080;
+  --c-brand-light: #008090;
+}
+
+.home .hero img {
+  max-width: 450px!important;
+  width: 30%;
+  border-radius: 500px;
+  border: 5px solid #fcfcfc;
+  @media (min-width: 992px) {
+    width: 20%;
+  }
+}
+
+.footer,
+.push {
+  height: 50px;
+}
+
+.center {
+  // to align center in Firefox, -webkit-center is not recognized in Firefox
+  // The order matters
+  text-align: center;
+  text-align: -webkit-center;
+}
+
+details {
+  width: max-content;
+}
+
+.custom-container.details {
+  margin: auto;  // to align center in Firefox
+}
+
+details[open] {
+  width: auto;
+}
+
+.home-div {
+  padding: 1rem;
+}
+
+.spaced {
+  padding-bottom: 1rem;
+}
