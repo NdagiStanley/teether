@@ -30,7 +30,7 @@ Stan
 
 ### Personal Mantra
 
-> *Invoke the builder and serve*
+> *Invoke the builder within and serve*
 
 #### What does this mean?
 
