@@ -47,6 +47,10 @@ module.exports = {
         target: '_blank'
       }
     ],
+    themePlugins: {
+      // disable git plugin
+      git: false,
+    },
   },
   plugins: [
     [

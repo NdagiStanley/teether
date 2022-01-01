@@ -208,7 +208,7 @@ WWW\*: World Wide Web
 [youtube-channel]: https://youtube.com/c/ndagistanley
 [spotify]: https://open.spotify.com/user/stan_md
 [goodreads]: https://www.goodreads.com/ndagistanley
-[lichess]: https://lichess.com/@/stanmd
+[lichess]: https://lichess.org/@/stanmd
 
 <!-- Contact -->
 [chat]: https://md.engineer/chat
