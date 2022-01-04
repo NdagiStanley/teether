@@ -3,6 +3,8 @@
 - Built using VuePress
 - Hosted on Netlify
 
+`src/.vuepress/public` is a submodule which is a private GitHub repository.
+
 ## Run
 
 - Install dependencies:
