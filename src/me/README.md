@@ -167,7 +167,7 @@ stan\*: (portmanteau of **St**alker & f**an**) a particularly, perhaps excessive
 
 WWW\*: World Wide Web
 
-[kingdombiz]: https://md.engineer/kingdombiz
+[kingdombiz]: /kingdombiz
 [devstory]: https://md.engineer/devstory
 [tk]: https://techkln.org
 [TFIR]: https://www.tfir.io
@@ -183,7 +183,7 @@ WWW\*: World Wide Web
 <!-- Publications -->
 [circleci-blog]: https://circleci.com/blog/author/stanley-ndagi
 [andela-blog]: https://andela.com/insights/building-future-data-enigma
-[scotchio]: https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one
+[scotchio]: https://web.archive.org/web/20211229200104/https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one
 [my-blog]: https://blog.md.engineer/
 [tk-blog]: https://blog.techkln.org/
 [devish-blog]: https://blog.developerish.org/

@@ -17,6 +17,10 @@ module.exports = {
         link: '/me/'
       },
       {
+        text: 'KingdomBIZ',
+        link: '/kingdombiz/'
+      },
+      {
         text: 'Blog',
         link: 'https://blog.md.engineer',
         target: '_blank'

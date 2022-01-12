@@ -48,3 +48,4 @@
 - [Plugin API](https://vuepress.github.io/reference/plugin-api.html)
   - extendsPageOptions
 - `footerHtml`
+- [Emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
