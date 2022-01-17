@@ -71,4 +71,10 @@ aptly:
 
 > **KingdomBIZ**
 
+## Inspired micro & macro blogs
+
+- [Tech & the Christian](https://www.notion.so/stanmd/Tech-the-Christian-56007e8b91ff45cf82610e247b487a99)
+- [Domain names fiasco (a testimony)](https://stanmd.notion.site/Domain-names-fiasco-a-testimony-52f298302f0e47b49e8400938d95cfa2)
+- [Barns](https://stanmd.notion.site/Barns-9f792f156b054e75a0fa87401ea5c4e0)
+
 <CustomFooter/>
