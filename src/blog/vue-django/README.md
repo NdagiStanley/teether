@@ -37,7 +37,7 @@ Referenced severally in articles, conference talks and forums: (Search for vue-d
 
 - [assertnotmagic.com](https://www.assertnotmagic.com/2017/06/20/vue-on-django-part-1/#2-getting-set-up)
 - [qiita.com/rarewin](https://qiita.com/rarewin/items/c6a70689844eafe8c3a1#%E6%BA%96%E5%82%99) (Japanese)
-- [scotch.io](https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one)
+- [scotch.io](https://web.archive.org/web/20211229200104/https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one)
 - [stackoverflow.com/](https://stackoverflow.com/a/43401530)
 - [js.dokry.com](http://js.dokry.com/usando-vue-con-django.html) (Spanish)
 - [reddit.com](https://www.reddit.com/r/learnpython/comments/7h1n2q/vue_and_django_a_good_idea/dqnftuf/)

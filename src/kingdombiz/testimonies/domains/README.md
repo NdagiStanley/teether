@@ -118,7 +118,7 @@ I liked the parking page they give once you purchase. So much that I just edited
 
   ![TV site part b](../../../.vuepress/public/images/kb/tv-b.png)
 
-> 🧐 I had thought against sharing the domain registrar then I remembered: most techies will do a WHOIS lookup so, why go through the trouble. :shrug:
+> 🧐 I had thought against sharing the domain registrar then I remembered: most techies will simply do a WHOIS lookup so, why go through the trouble. :shrug:
 >
 > Check them out: [epik.com][epik] (They call themselves: *the Swiss Bank of domains* 🇨🇭)
 
