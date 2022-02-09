@@ -68,7 +68,8 @@ aptly:
 ## Inspired micro & macro blogs
 
 - [Tech & the Christian][tech-christian]
-- [Domain names fiasco (a testimony)][domains]
+- [Testimonies][testimonies]
+  - [Domain names fiasco (a testimony)][domains]
 
 [Luke 2.49 NKJV]: https://my.bible.com/bible/114/LUK.2.49.NKJV
 [Luke 2.49]: https://www.bible.com/bible/compare/LUK.2.49
@@ -78,4 +79,5 @@ aptly:
 [John 4:34]: https://www.bible.com/bible/compare/JHN.4.34
 [Samaritan woman and Jesus]: https://www.bible.com/bible/114/JHN.4.1-42
 [tech-christian]: /kingdombiz/tech
+[testimonies]: /kingdombiz/testimonies
 [domains]: /kingdombiz/testimonies/domains
