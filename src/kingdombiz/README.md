@@ -62,7 +62,7 @@ The two passages speak on Jesus' ideology on life. I am a believer of Jesus Chri
 
 aptly:
 
-<center><h1> KingdomBIZ </h1></center>
+# KingdomBIZ
 
 ## Inspired micro & macro blogs
 
