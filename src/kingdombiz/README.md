@@ -69,7 +69,6 @@ aptly:
 
 - [Tech & the Christian][tech-christian]
 - [Domain names fiasco (a testimony)][domains]
-- [Barns](https://stanmd.notion.site/Barns-9f792f156b054e75a0fa87401ea5c4e0)
 
 [Luke 2.49 NKJV]: https://my.bible.com/bible/114/LUK.2.49.NKJV
 [Luke 2.49]: https://www.bible.com/bible/compare/LUK.2.49

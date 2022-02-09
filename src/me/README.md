@@ -77,10 +77,10 @@ This mantra reminds me of this identity; calling me to action!
 
 ### Personal Projects
 
-- [VueDjango][vuedj] - A VueJS-Django-Webpack boilerplate
+- [VueDjango][vuedj] - A VueJS-Django-Webpack boilerplate. Read more about VueDjango [here][blog/vuedjango].
 - [Lifebuoy][lifebuoy] - A Visual Studio Code extension
 
-Find more at [code.md.engineer][code]
+Find more on my [GitHub profile][code]
 
 ### Written pieces
 
@@ -165,7 +165,8 @@ WWW\*: World Wide Web
 [Andela]: https://andela.com
 [vuedj]: https://github.com/NdagiStanley/vue-django
 [lifebuoy]: https://marketplace.visualstudio.com/items?itemName=NdagiStanley.lifebuoy
-[code]: https://code.md.engineer
+[blog/vuedjango]: /blog/vue-django
+[code]: https://github.com/NdagiStanley#code-tech
 
 <!-- Videos -->
 [Andela-video]: https://youtu.be/ulQt9BBTfFU
