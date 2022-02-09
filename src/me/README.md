@@ -10,9 +10,9 @@ search: false
 Welcome to the long version of it, below.
 
 ::: tip
-Navigation is on the right sidebar.
+Navigation is on the left sidebar.
 
-*Collapse the menu on the right/ Swipe from the right, if you're on mobile)*
+*Collapse the menu on the left (Swipe from the left, if you're on mobile)*
 :::
 
 ## Who am I?
@@ -77,10 +77,10 @@ This mantra reminds me of this identity; calling me to action!
 
 ### Personal Projects
 
-- [VueDjango][vuedj] - A VueJS-Django-Webpack boilerplate
+- [VueDjango][vuedj] - A VueJS-Django-Webpack boilerplate. Read more about VueDjango [here][blog/vuedjango].
 - [Lifebuoy][lifebuoy] - A Visual Studio Code extension
 
-Find more at [code.md.engineer][code]
+Find more on my [GitHub profile][code]
 
 ### Written pieces
 
@@ -91,34 +91,36 @@ Find more at [code.md.engineer][code]
 
 ## Et al - miscellaneous
 
-I share these, chiefly, to give insight
+I share the following, chiefly, to give insight.
 
-### 'Fandom' - people and initiatives I fancy
+### 'Fandom' - people and initiatives I fancy/ follow
 
 I'm not the ***stan**** kind of a fan (bad joke :sweat_smile:) but here's my non-exhaustive list:
 
+- [Bible Project](https://bibleproject.com/) (Bible) - *I've written more about the Bible Project [here][kb-bibleproject]*.
+- [YouVersion](https://www.youversion.com/) (Bible & tech) - *I've written more about YouVersion [here][kb-youversion]*.
 - [Nutrition Facts](https://nutritionfacts.org/) (health)
 - [MKBHD](https://www.youtube.com/user/marquesbrownlee) (tech)
 - [Living Big in a Tiny House](https://www.youtube.com/user/livingbigtinyhouse) (DIY & minimalism)
 - [Never too small](https://www.youtube.com/channel/UC_zQ777U6YTyatP3P1wi3xw) (minimalism)
 - [Get Hands Dirty](https://www.gethandsdirty.com/) (DIY)
-- [Bible Project](https://bibleproject.com/) (Bible) - *I've written more about the Bible Project [here][kb-bibleproject]*.
-- [YouVersion](https://www.youversion.com/) (Bible & tech) - *I've written more about YouVersion [here][kb-youversion]*.
-- [Myles Monroe](https://www.munroeglobal.com/) (living, leadership, and empowerment)
 - [Marvel](https://www.youtube.com/user/MARVEL) (entertainment)
+- [FreeCodeCamp](https://www.freecodecamp.org/) (learning)
+- [Code.org](https://code.org/) (learning)
 - [CS50](https://twitter.com/cs50) (learning)
-- [Code.org](https://code.org/) (teaching)
-- [Oversimplified](https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A) (history)
 - [Extra Credits](https://www.youtube.com/user/ExtraCreditz/playlists) (learning)
+- [Science Vs](https://gimletmedia.com/shows/science-vs) (science)
+- [Oversimplified](https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A) (history)
 - [Two Cents](https://www.youtube.com/channel/UCL8w_A8p8P1HWI3k6PR5Z6w) (financial literacy)
 - [Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw) (finance)
 - [Business Insider](https://www.youtube.com/user/businessinsider) (finance)
-- [Science Vs](https://gimletmedia.com/shows/science-vs) (science facts)
 
 ### All time favourites
 
 These cut across learning, entertainment, insight and DIY
 
+- [Testimony Channel](https://www.youtube.com/c/TESTIMONYCHANNEL) (spiritual enlightenment)
+- [Myles Monroe](https://www.munroeglobal.com/) (living, leadership, and empowerment)
 - [Learning How to Learn](https://youtu.be/vd2dtkMINIw)
 - Tania Rascia's philosophy of [learning in public](https://www.taniarascia.com/learn/)
 - [Riding a bike backwards](https://youtu.be/MFzDaBzBlL0) :laughing:
@@ -129,20 +131,9 @@ These cut across learning, entertainment, insight and DIY
 - [DIY 'desk PC'](https://youtu.be/QaoFh1DH51U)
 - [Science Vs | Circumcision: Why Are We Doing This?](https://gimletmedia.com/shows/science-vs/dvhe5l/circumcision-why-are-we-doing-this)
 
-### #OneWord365
-
-It's said time and tide wait for no man. As far as planning for one's time goes, I think that new year resolutions is single most common time people zero-in on this. Yet, some forget weeks later, clouded by the day-to-day of life.
-
-An alternative, I came across in 2018 is the [OneWord365 philosophy][OneWord356]. It's not a new concept in any sense but I recommend it whenever I can. Basically, you prayerfully and meditatively settle on one word to guide you every year - talk of the significance of words!
-
-<!-- TODO -->
-<!-- Figure where to put this -->
-<!-- We might have to use a Blog theme/ create one -->
-Here are [my musings on the same, ever since][vision].
-
 ## Where else can I be found?
 
-My home in the WWW\* is [here][home]. You can find me around the web at:
+[This][home] is my home in the WWW\*. You can find me around the web at:
 
 - GitHub: [NdagiStanley][gh]
 - Twitter: [NdagiStanley][twitter]
@@ -157,7 +148,7 @@ My home in the WWW\* is [here][home]. You can find me around the web at:
 - :books: [Some of my reads on Goodreads][goodreads]
 - :chess_pawn: Let's play a game of chess on [lichess][lichess]
 
-Use any of the last four links [here][chat] if you'd like to reach out including [meeting up][meet] :smile:
+Use any of the platforms listed [here][chat] if you'd like to reach out including [meeting up on a call or otherwise][meet]. :smile:
 
 ---
 
@@ -167,14 +158,15 @@ stan\*: (portmanteau of **St**alker & f**an**) a particularly, perhaps excessive
 
 WWW\*: World Wide Web
 
-[kingdombiz]: https://md.engineer/kingdombiz
+[kingdombiz]: /kingdombiz
 [devstory]: https://md.engineer/devstory
 [tk]: https://techkln.org
 [TFIR]: https://www.tfir.io
 [Andela]: https://andela.com
 [vuedj]: https://github.com/NdagiStanley/vue-django
 [lifebuoy]: https://marketplace.visualstudio.com/items?itemName=NdagiStanley.lifebuoy
-[code]: https://code.md.engineer
+[blog/vuedjango]: /blog/vue-django
+[code]: https://github.com/NdagiStanley#code-tech
 
 <!-- Videos -->
 [Andela-video]: https://youtu.be/ulQt9BBTfFU
@@ -183,7 +175,7 @@ WWW\*: World Wide Web
 <!-- Publications -->
 [circleci-blog]: https://circleci.com/blog/author/stanley-ndagi
 [andela-blog]: https://andela.com/insights/building-future-data-enigma
-[scotchio]: https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one
+[scotchio]: https://web.archive.org/web/20211229200104/https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one
 [my-blog]: https://blog.md.engineer/
 [tk-blog]: https://blog.techkln.org/
 [devish-blog]: https://blog.developerish.org/
@@ -192,11 +184,9 @@ WWW\*: World Wide Web
 <!-- Others -->
 [kb-youversion]: https://bit.ly/KB-youversion
 [kb-bibleproject]: https://bit.ly/KB-bibleproject
-[OneWord356]: https://oneword365.com
-[vision]: https://old.md.engineer/category/vision/
 
 <!-- Socials -->
-[home]: https://md.engineer/
+[home]: /
 [twitter]: https://twitter.com/NdagiStanley
 [gh]: https://github.com/NdagiStanley
 [Ln]: https://www.linkedin.com/in/ndagistanley
@@ -211,7 +201,7 @@ WWW\*: World Wide Web
 [lichess]: https://lichess.org/@/stanmd
 
 <!-- Contact -->
-[chat]: https://md.engineer/chat
+[chat]: /chat
 [meet]: https://md.engineer/meet
 
 <!-- Reference -->
@@ -223,5 +213,3 @@ WWW\*: World Wide Web
 <!-- Update blog posts to include all content (consolidated) and canonical links -->
 <!-- Bring all content here to leverage - Edit on GitHub -->
 <!-- Decide whether the projects' links are headed for code subdomain, to GitHub or to hosting -->
-
-<CustomFooter/>

@@ -7,6 +7,8 @@
 
 ## Run
 
+Use node version: ^12.20.0 || ^14.13.0 || >=15.0.0
+
 - Install dependencies:
 
   ```bash
@@ -48,3 +50,4 @@
 - [Plugin API](https://vuepress.github.io/reference/plugin-api.html)
   - extendsPageOptions
 - `footerHtml`
+- [Emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)

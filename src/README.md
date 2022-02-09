@@ -21,25 +21,25 @@ actions:
 
 <div class="center">
 
-::: details In brief
+  ::: details In brief
 
-<CodeGroupItem title="" active>
+  <CodeGroupItem title="" active>
 
-```md:no-line-numbers
-# Profession
-Software Engineer
-Technical Copywriter
+  ```md:no-line-numbers
+  # Profession
+  Software Engineer
+  Technical Copywriter
 
-# General
-**Digerati | **Tinkerer | Writer
-```
+  # General
+  **Digerati | **Tinkerer | Writer
+  ```
 
-</CodeGroupItem>
+  </CodeGroupItem>
 
-<div class="center">
-  <TermsExplained/>
-</div>
-:::
+  <div class="center">
+    <TermsExplained/>
+  </div>
+  :::
 </div>
 
 <CustomFooter/>

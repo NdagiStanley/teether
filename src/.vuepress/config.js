@@ -8,29 +8,49 @@ module.exports = {
   description: description,
 
   // theme and its config
-  theme: '@vuepress/theme-default',
+  theme: path.resolve(__dirname, './theme'),
   themeConfig: {
     logo: 'he_.png',
     navbar: [
       {
         text: 'About',
-        link: '/me/'
+        children: [
+          {
+            text: 'Me',
+            link: '/me/',
+          },
+          {
+            text: 'My Vision',
+            link: '/vision/',
+          }
+        ]
+      },
+      {
+        text: 'KingdomBIZ',
+        children: [
+          {
+            text: 'About',
+            link: '/kingdombiz/',
+          },
+          {
+            text: 'Tech',
+            link: '/kingdombiz/tech/',
+          },
+          {
+            text: 'Testimonies',
+            link: '/kingdombiz/testimonies/',
+          },
+        ]
       },
       {
         text: 'Blog',
-        link: 'https://blog.md.engineer',
-        target: '_blank'
-      },
-      {
-        text: 'Code',
-        link: 'https://github.com/NdagiStanley',
-        target: '_blank'
+        link: '/blog/'
       },
       {
         text: 'Et al (Others)',
         children: [
           {
-            text: 'Career',
+            text: 'LinkedIn',
             link: 'https://www.linkedin.com/in/ndagistanley',
             target: '_blank'
           },
@@ -39,14 +59,58 @@ module.exports = {
             link: 'https://twitter.com/NdagiStanley',
             target: '_blank'
           },
+          {
+            text: 'Blog on Hashnode',
+            link: 'https://blog.md.engineer',
+            target: '_blank'
+          },
+          {
+            text: 'Code on GitHub',
+            link: 'https://github.com/NdagiStanley',
+            target: '_blank'
+          },
         ]
       },
       {
         text: 'TechK/n',
         link: 'https://techkln.org',
         target: '_blank'
-      }
+      },
+      {
+        text: 'Contact',
+        link: '/contact/',
+      },
     ],
+    sidebar: {
+      '/vision': [
+        {
+          text: 'Vision',
+          link: '/vision/',
+          children: ['/vision/2020', '/vision/2019', '/vision/2018', '/vision/2016'],
+        },
+      ],
+      '/kingdombiz': [
+        {
+          text: 'KingdomBIZ',
+          link: '/kingdombiz/',
+          children: [
+            '/kingdombiz/tech',
+            {
+              text: 'Testimonies',
+              link: '/kingdombiz/testimonies',
+              children: ['/kingdombiz/testimonies/domains']
+            }
+          ],
+        },
+      ],
+      '/blog': [
+        {
+          text: 'Blog',
+          link: '/blog/',
+          children: ['/blog/vue-django', '/blog/andela'],
+        },
+      ],
+    },
     themePlugins: {
       // disable git plugin
       git: false,

@@ -11,7 +11,8 @@
   "author": "Ndagi Stanley <ndagis@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-register-components": "^2.0.0-beta.32",
-    "vuepress": "^2.0.0-beta.32"
+    "@vuepress/utils": "next",
+    "@vuepress/plugin-register-components": "next",
+    "vuepress": "next"
   }
 }
