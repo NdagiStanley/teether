@@ -7,6 +7,8 @@
 
 ## Run
 
+Use node version: ^12.20.0 || ^14.13.0 || >=15.0.0
+
 - Install dependencies:
 
   ```bash

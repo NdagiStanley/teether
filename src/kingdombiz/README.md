@@ -1,15 +1,10 @@
 ---
 sidebar: auto
 search: false
+next: /kingdombiz/tech
 ---
 
 # KingdomBIZ
-
-::: tip
-Navigation is on the right sidebar.
-
-*Collapse the menu on the right/ Swipe from the right, if you're on mobile)*
-:::
 
 ## About
 
@@ -21,13 +16,11 @@ Jesus Christ, believed to be the Son of God (the triune God), according to the B
 Jesus and family went to Jerusalem for Passover every year. This time at age 12 he remains behind at the temple as the others head back. His parents think he's among the others but eventually realise that's not the case. He is 'lost'.
 Jesus' parents (guardians) are searching for him. They find him back at the temple.
 
-<aside>
-:speaking_head: And He (Jesus) said to them (His parents), "Why did you seek Me? Did you not know that I must be about My Father’s business?"
-</aside>
+> :speaking_head: And He (Jesus) said to them (His parents), "Why did you seek Me? Did you not know that I must be about My Father’s business?"
 
-That's [Luke 2:49 NKJV (New King James Version)](https://my.bible.com/bible/114/LUK.2.49.NKJV)
+That's [Luke 2:49 NKJV (New King James Version)][Luke 2.49 NKJV]
 
-[Other translations](https://www.bible.com/bible/compare/LUK.2.49)
+[Other translations][Luke 2.49]
 :::
 
 > :speaking_head: "My nourishment comes from doing the will of God, who sent me, and from finishing his work."
@@ -40,21 +33,21 @@ Jesus is moving from Judea to Galilee via Samaria
 
   <iframe width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d538909.416152967!2d34.91339066214064!3d32.414233030789646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e2!4m5!1s0x151c3e4505b6d063%3A0xf6f4a023d4faf69f!2sTiberias%2C%20Israel!3m2!1d32.795859!2d35.530972999999996!4m5!1s0x151ce0bf4413a14f%3A0xf265c6f017687cc5!2sJacob&#39;s%20Well%2C%20Kobri%20Bour%20Saeed!3m2!1d32.2095124!2d35.285281399999995!4m5!1s0x151d4a98da87a487%3A0x3f27c0331077af25!2sOr%20Yehuda%2C%20Israel!3m2!1d32.029748!2d34.856173!5e1!3m2!1sen!2ske!4v1641940208930!5m2!1sen!2ske"></iframe>
 
-He takes a breather at Jacob's well while His disciples went for 'shopping' (food shopping). This was at noon. A woman of Samaria is on an errand to fetch water and Jesus asks for a drink. Please note that [Samaritans and Jews had no dealings with each other](https://bible.org/illustration/hatred-between-jews-and-samaritans). So this is awkward for the lady. They **debate** (the word debate, loosely used here).
+He takes a breather at Jacob's well while His disciples went for 'shopping' (food shopping). This was at noon. A woman of Samaria is on an errand to fetch water and Jesus asks for a drink. Please note that [Samaritans and Jews had no dealings with each other][Samaritans and Jews]. So this is awkward for the lady. They **debate** (the word debate, loosely used here).
 
 Jesus says He is the giver of living water that quenches all thirst. Jesus is called 'a prophet' because He exercised word of knowledge (revealing secrets about the Samaritan woman's love life). They speak on worship as well.
 
-Just then his disciples come back, surprised that he's talking to the lady ([AMPC version expounds it; *a married woman*](https://my.bible.com/bible/8/JHN.4.27)) Well, the conversation ends; she leaves without her water jar to share with her people about the encounter. These Samaritans will eventually come back to the well and persuade Jesus to stay for a while, which He did. Many of them believed because of the lady's testimony. They say truly Jesus is the Savior (or Saviour [*British English*]) of the world, the Christ.
+Just then his disciples come back, surprised that he's talking to the lady ([AMPC version expounds it as *a married woman*][John 4:27 AMPC]) Well, the conversation ends; she leaves without her water jar to share with her people about the encounter. These Samaritans will eventually come back to the well and persuade Jesus to stay for a while, which He did. Many of them believed because of the lady's testimony. They say truly Jesus is the Savior (or Saviour [*British English*]) of the world, the Christ.
 
 Meanwhile, in between the time of the Samaritan woman leaving and the arrival of the Samaritans; the disciples were urging Jesus to eat the food they had come back with to no avail. "Did anyone bring him food?" they wondered. Jesus had assured them that He had had food which they new nothing about. He further explained:
 
-> 🗣️ My food (nourishment) is to do the will (pleasure) of Him who sent Me and to accomplish and completely finish His work.
+> :speaking_head: My food (nourishment) is to do the will (pleasure) of Him who sent Me and to accomplish and completely finish His work.
 
-That's [John 4:34 AMPC (Amplified Bible, Classic Edition)](https://my.bible.com/bible/8/JHN.4.34)
+That's [John 4:34 AMPC (Amplified Bible, Classic Edition)][John 4:34 AMPC]
 
-[Other translations](https://biblehub.com/john/4-34.htm)
+[Other translations][John 4:34]
 
-Read the [entire story](https://my.bible.com/bible/8/JHN.4.1-42).
+Read the [entire story][Samaritan woman and Jesus].
 
 :::
 
@@ -69,12 +62,22 @@ The two passages speak on Jesus' ideology on life. I am a believer of Jesus Chri
 
 aptly:
 
-> **KingdomBIZ**
+<center><h1> KingdomBIZ </h1></center>
 
 ## Inspired micro & macro blogs
 
-- [Tech & the Christian](https://www.notion.so/stanmd/Tech-the-Christian-56007e8b91ff45cf82610e247b487a99)
-- [Domain names fiasco (a testimony)](https://stanmd.notion.site/Domain-names-fiasco-a-testimony-52f298302f0e47b49e8400938d95cfa2)
+- [Tech & the Christian][tech-christian]
+- [Domain names fiasco (a testimony)][domains]
 - [Barns](https://stanmd.notion.site/Barns-9f792f156b054e75a0fa87401ea5c4e0)
 
 <CustomFooter/>
+
+[Luke 2.49 NKJV]: https://my.bible.com/bible/114/LUK.2.49.NKJV
+[Luke 2.49]: https://www.bible.com/bible/compare/LUK.2.49
+[Samaritans and Jews]: https://bible.org/illustration/hatred-between-jews-and-samaritans
+[John 4:27 AMPC]: https://my.bible.com/bible/8/JHN.4.27
+[John 4:34 AMPC]: https://my.bible.com/bible/8/JHN.4.34
+[John 4:34]: https://www.bible.com/bible/compare/JHN.4.34
+[Samaritan woman and Jesus]: https://www.bible.com/bible/114/JHN.4.1-42
+[tech-christian]: /kingdombiz/tech
+[domains]: /kingdombiz/testimonies/domains

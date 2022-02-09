@@ -14,11 +14,33 @@ module.exports = {
     navbar: [
       {
         text: 'About',
-        link: '/me/'
+        children: [
+          {
+            text: 'About ME',
+            link: '/me/',
+          },
+          {
+            text: 'Vision',
+            link: '/vision/',
+          }
+        ]
       },
       {
         text: 'KingdomBIZ',
-        link: '/kingdombiz/'
+        children: [
+          {
+            text: 'About KingdomBIZ',
+            link: '/kingdombiz/',
+          },
+          {
+            text: 'Tech & the Christian',
+            link: '/kingdombiz/tech/',
+          },
+          {
+            text: 'Testimonies',
+            link: '/kingdombiz/testimonies/',
+          },
+        ]
       },
       {
         text: 'Blog',
@@ -34,7 +56,7 @@ module.exports = {
         text: 'Et al (Others)',
         children: [
           {
-            text: 'Career',
+            text: 'LinkedIn',
             link: 'https://www.linkedin.com/in/ndagistanley',
             target: '_blank'
           },
@@ -42,6 +64,10 @@ module.exports = {
             text: 'Twitter',
             link: 'https://twitter.com/NdagiStanley',
             target: '_blank'
+          },
+          {
+            text: 'Contact',
+            link: '/contact/',
           },
         ]
       },
@@ -51,6 +77,29 @@ module.exports = {
         target: '_blank'
       }
     ],
+    sidebar: {
+      '/vision/': [
+        {
+          text: 'Vision',
+          link: '/vision/',
+          children: ['/vision/2020', '/vision/2019', '/vision/2018', '/vision/2016'],
+        },
+      ],
+      '/kingdombiz/': [
+        {
+          text: 'KingdomBIZ',
+          link: '/kingdombiz/',
+          children: [
+            '/kingdombiz/tech',
+            {
+              text: 'Testimonies',
+              link: '/kingdombiz/testimonies',
+              children: ['/kingdombiz/testimonies/domains']
+            }
+          ],
+        },
+      ],
+    },
     themePlugins: {
       // disable git plugin
       git: false,
