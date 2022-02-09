@@ -37,5 +37,3 @@ externalIcon: false
 
 [![CircleCI](https://img.shields.io/circleci/project/NdagiStanley/django_girls_complete.svg?style=flat-round)](https://circleci.com/gh/NdagiStanley/django_girls_complete)
 [![codecov](https://codecov.io/gh/NdagiStanley/django_girls_complete/branch/circleci/graph/badge.svg)](https://codecov.io/gh/NdagiStanley/django_girls_complete/branch/circleci)
-
-<CustomFooter/>

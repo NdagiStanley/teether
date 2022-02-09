@@ -15,6 +15,8 @@ _Drumrolls_ :drum:
 
 ## The Word
 
-# ORDINANCE
+<div class="center">
+  <h1>ORDINANCE</h1>
+</div>
 
 ![Ordinance](../../.vuepress/public/images/2018.png)

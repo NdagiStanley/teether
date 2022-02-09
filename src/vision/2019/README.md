@@ -15,6 +15,8 @@ _Drumrolls_ :drum:
 
 ## The Word
 
-# SELF-DISCIPLINE
+<div class="center">
+  <h1>SELF-DISCIPLINE</h1>
+</div>
 
 ![Self-discipline](../../.vuepress/public/images/2019.png)

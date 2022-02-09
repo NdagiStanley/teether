@@ -8,7 +8,7 @@ module.exports = {
   description: description,
 
   // theme and its config
-  theme: '@vuepress/theme-default',
+  theme: path.resolve(__dirname, './theme'),
   themeConfig: {
     logo: 'he_.png',
     navbar: [
@@ -16,11 +16,11 @@ module.exports = {
         text: 'About',
         children: [
           {
-            text: 'About ME',
+            text: 'Me',
             link: '/me/',
           },
           {
-            text: 'Vision',
+            text: 'My Vision',
             link: '/vision/',
           }
         ]
@@ -29,11 +29,11 @@ module.exports = {
         text: 'KingdomBIZ',
         children: [
           {
-            text: 'About KingdomBIZ',
+            text: 'About',
             link: '/kingdombiz/',
           },
           {
-            text: 'Tech & the Christian',
+            text: 'Tech',
             link: '/kingdombiz/tech/',
           },
           {
@@ -44,13 +44,7 @@ module.exports = {
       },
       {
         text: 'Blog',
-        link: 'https://blog.md.engineer',
-        target: '_blank'
-      },
-      {
-        text: 'Code',
-        link: 'https://github.com/NdagiStanley',
-        target: '_blank'
+        link: '/blog/'
       },
       {
         text: 'Et al (Others)',
@@ -66,8 +60,14 @@ module.exports = {
             target: '_blank'
           },
           {
-            text: 'Contact',
-            link: '/contact/',
+            text: 'Blog on Hashnode',
+            link: 'https://blog.md.engineer',
+            target: '_blank'
+          },
+          {
+            text: 'Code on GitHub',
+            link: 'https://github.com/NdagiStanley',
+            target: '_blank'
           },
         ]
       },
@@ -75,17 +75,21 @@ module.exports = {
         text: 'TechK/n',
         link: 'https://techkln.org',
         target: '_blank'
-      }
+      },
+      {
+        text: 'Contact',
+        link: '/contact/',
+      },
     ],
     sidebar: {
-      '/vision/': [
+      '/vision': [
         {
           text: 'Vision',
           link: '/vision/',
           children: ['/vision/2020', '/vision/2019', '/vision/2018', '/vision/2016'],
         },
       ],
-      '/kingdombiz/': [
+      '/kingdombiz': [
         {
           text: 'KingdomBIZ',
           link: '/kingdombiz/',
@@ -97,6 +101,13 @@ module.exports = {
               children: ['/kingdombiz/testimonies/domains']
             }
           ],
+        },
+      ],
+      '/blog': [
+        {
+          text: 'Blog',
+          link: '/blog/',
+          children: ['/blog/vue-django', '/blog/andela'],
         },
       ],
     },

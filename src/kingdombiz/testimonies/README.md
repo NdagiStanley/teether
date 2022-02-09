@@ -1,7 +1,7 @@
 ---
+prev: /kingdombiz/tech
 next: /kingdombiz/testimonies/domains
 ---
-
 
 # Testimonies
 

@@ -148,7 +148,7 @@ These cut across learning, entertainment, insight and DIY
 - :books: [Some of my reads on Goodreads][goodreads]
 - :chess_pawn: Let's play a game of chess on [lichess][lichess]
 
-Use any of the platforms listed [here][chat] if you'd like to reach out including [meeting up][meet] :smile:
+Use any of the platforms listed [here][chat] if you'd like to reach out including [meeting up on a call or otherwise][meet]. :smile:
 
 ---
 
@@ -157,8 +157,6 @@ tinkerer\*: a person who enjoys fixing and experimenting with machines and their
 stan\*: (portmanteau of **St**alker & f**an**) a particularly, perhaps excessively, avid fan. ([Reference][stan]).
 
 WWW\*: World Wide Web
-
-<CustomFooter/>
 
 [kingdombiz]: /kingdombiz
 [devstory]: https://md.engineer/devstory
@@ -187,7 +185,7 @@ WWW\*: World Wide Web
 [kb-bibleproject]: https://bit.ly/KB-bibleproject
 
 <!-- Socials -->
-[home]: https://md.engineer/
+[home]: /
 [twitter]: https://twitter.com/NdagiStanley
 [gh]: https://github.com/NdagiStanley
 [Ln]: https://www.linkedin.com/in/ndagistanley

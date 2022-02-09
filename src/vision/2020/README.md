@@ -15,7 +15,9 @@ _Drumrolls_ :drum:
 
 ## The Word
 
-# OFFENCE
+<div class="center">
+  <h1>OFFENCE</h1>
+</div>
 
 ![Offence](../../.vuepress/public/images/Offence.png)
 

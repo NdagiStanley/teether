@@ -1,12 +1,11 @@
 ---
 sidebar: auto
-search: false
 next: /kingdombiz/tech
 ---
 
 # KingdomBIZ
 
-## About
+## What does KingdomBIZ mean?
 
 Jesus Christ, believed to be the Son of God (the triune God), according to the Bible (a collection of books that has survived millennia whose authors claim to be inspired by God), is claimed to have said the following words:
 
@@ -62,15 +61,15 @@ The two passages speak on Jesus' ideology on life. I am a believer of Jesus Chri
 
 aptly:
 
-# KingdomBIZ
+<div class="center">
+  <h1>KingdomBIZ</h1>
+</div>
 
 ## Inspired micro & macro blogs
 
 - [Tech & the Christian][tech-christian]
 - [Domain names fiasco (a testimony)][domains]
 - [Barns](https://stanmd.notion.site/Barns-9f792f156b054e75a0fa87401ea5c4e0)
-
-<CustomFooter/>
 
 [Luke 2.49 NKJV]: https://my.bible.com/bible/114/LUK.2.49.NKJV
 [Luke 2.49]: https://www.bible.com/bible/compare/LUK.2.49

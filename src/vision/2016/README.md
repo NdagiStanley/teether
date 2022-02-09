@@ -10,7 +10,9 @@ by God’s appointment, in His keeping, under His training, for His time & with 
 
 ## The Word
 
-# PROGRESS
+<div class="center">
+  <h1>PROGRESS</h1>
+</div>
 
 Forward ever, backward never! ADVANCING.
 

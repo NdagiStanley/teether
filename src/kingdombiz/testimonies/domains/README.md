@@ -1,3 +1,7 @@
+---
+prev: /kingdombiz/testimonies
+---
+
 # Domain names fiasco (a testimony)
 
 It's been a pleasure being part of the [ToT tech team][tech-mail]. We have a simple yet profound mission:
@@ -106,9 +110,9 @@ And it was a success, moreover cheaper :man_dancing:
 
 ![Receipt](../../../.vuepress/public/images/kb/receipt.png)
 
-So now, while the Tech team is working on the page, here's the [Testimony-TV][-tv]) loading :sparkles:
+So now, while the Tech team is working on the page, here's the [Testimony-TV][-tv]) site. :sparkles:
 
-- I liked the parking page they give once you purchase. So much that I just edited it to fit.
+I liked the parking page they give once you purchase. So much that I just edited it to fit.
 
   ![TV site](../../../.vuepress/public/images/kb/tv.png)
 
@@ -124,8 +128,6 @@ For the record I use multiple domain registrars. I try not to have brand-loyalty
 
 If this picked your interest, [this series][diy-series] probably will. I take readers through the steps of creating their own web presence from scratch.
 
-<CustomFooter/>
-
 [tot]: https://www.tot.church/
 [tech-mail]: mailto:tech@tot.co.ke
 [pfa]: https://www.tot.church/#leadership
@@ -140,4 +142,4 @@ If this picked your interest, [this series][diy-series] probably will. I take re
 [epik]: https://www.epik.com
 [David Green]: https://en.wikipedia.org/wiki/David_Green_(entrepreneur)
 [Hobby Lobby]: https://www.hobbylobby.com/
-[diy-series]: https://bit.ly/2SlGvnF
+[diy-series]: https://md.engineer/web-diy

@@ -1,3 +1,8 @@
+---
+prev: /kingdombiz
+next: /kingdombiz/testimonies
+---
+
 # Tech & the Christian
 
 > Being a digerati, I incorporate tech in my Christian walk
@@ -57,8 +62,6 @@ They ask an intriguing question: _What if we could do more for God’s Kingdom w
 
 The Top Level Domain (TLD), .BIBLE has been there for a while.
 Future.Bible is a podcast from the creators of the TLD. You can get your own domain [here][get.bible].
-
-<CustomFooter/>
 
 [Stan Lee]: https://en.wikipedia.org/wiki/Stan_Lee
 [mcu]: https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe

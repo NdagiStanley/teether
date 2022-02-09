@@ -35,12 +35,6 @@
   force = true
 
 [[redirects]]
-  from = "/kingdombiz/tech"
-  to = "https://bit.ly/KB-with-tech"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/kingdombiz/lens"
   to = "https://bit.ly/KB-bible-lens"
   status = 301
