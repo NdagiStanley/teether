@@ -46,7 +46,6 @@ Use node version: ^12.20.0 || ^14.13.0 || >=15.0.0
   - notFound
   - backToHome
 - `h2` has a `br` below it. `h1`, `h3`, `h4`, `h5`, `h6` do not. (Contrary to GitHub flavoured markdown)
-- `<center></center>` makes content align center
 - [Plugin API](https://vuepress.github.io/reference/plugin-api.html)
   - extendsPageOptions
 - `footerHtml`
