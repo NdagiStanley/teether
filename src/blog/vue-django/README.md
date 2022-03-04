@@ -17,9 +17,9 @@ It has over 500 stars on GitHub now! :fire:
 
 Back to vue-django. This project has three variations:
 
-Django 1.*- Vue 1.*
-Django 1.*- Vue 2.*
-Django 2.*- Vue 2.*
+- Django 1.\* - Vue 1.*
+- Django 1.\* - Vue 2.*
+- Django 2.\* - Vue 2.*
 
 It's made such that by following [these steps][steps], you have a project similar to what is hosted [here][vuedj] and you are ready to go.
 

@@ -1,5 +1,6 @@
 ---
 prev: /blog/vue-django
+editLink: true
 ---
 
 # A great run at Andela

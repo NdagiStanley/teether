@@ -11,6 +11,12 @@ module.exports = {
   theme: path.resolve(__dirname, './theme'),
   themeConfig: {
     logo: 'he_.png',
+    docsRepo: 'https://github.com/NdagiStanley/teether',
+    docsBranch: 'main',
+    docsDir: 'src',
+    editLinkPattern: ':repo/edit/:branch/:path',
+    editLink: false,
+    editLinkText: 'Noted a typo or want to improve this page? Help me out! Edit this page on GitHub.',
     navbar: [
       {
         text: 'About',
@@ -22,6 +28,10 @@ module.exports = {
           {
             text: 'My Vision',
             link: '/vision/',
+          },
+          {
+            text: 'Beta Tester',
+            link: '/beta-tester/',
           }
         ]
       },
@@ -107,7 +117,7 @@ module.exports = {
         {
           text: 'Blog',
           link: '/blog/',
-          children: ['/blog/vue-django', '/blog/andela'],
+          children: ['/blog/github-stars', '/blog/vue-django', '/blog/andela', '/blog/beta-tester'],
         },
       ],
     },

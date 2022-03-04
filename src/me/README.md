@@ -209,7 +209,6 @@ WWW\*: World Wide Web
 [stan]: https://en.wikipedia.org/wiki/Fan_(person)#"Stan"_fans
 
 <!-- TODO -->
-<!-- Add blog posts -->
 <!-- Update blog posts to include all content (consolidated) and canonical links -->
 <!-- Bring all content here to leverage - Edit on GitHub -->
 <!-- Decide whether the projects' links are headed for code subdomain, to GitHub or to hosting -->
