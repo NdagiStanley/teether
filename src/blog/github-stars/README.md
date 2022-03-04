@@ -1,5 +1,7 @@
 ---
 editLink: true
+prev: /blog
+next: /blog/vue-django
 ---
 
 # Honoured to be a GitHub star
@@ -34,5 +36,5 @@ Like any nomination, you accept or reject it. I accepted!. Reasons:
 
 [serah twitter]: https://twitter.com/serahrono
 [serah ghstar profile]: https://web.archive.org/web/20211216152138/https://stars.github.com/profiles/serahrono/
-[beta-tester]: /me/beta-tester
+[beta-tester]: /beta-tester
 [github-stars-program]: https://stars.github.com/program/

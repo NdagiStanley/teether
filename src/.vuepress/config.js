@@ -16,7 +16,7 @@ module.exports = {
     docsDir: 'src',
     editLinkPattern: ':repo/edit/:branch/:path',
     editLink: false,
-    editLinkText: 'Noted a typo or want to improve this page? Help me out! Edit this page on GitHub.',
+    editLinkText: 'Correct a typo / Improve this page',
     navbar: [
       {
         text: 'About',
@@ -117,7 +117,7 @@ module.exports = {
         {
           text: 'Blog',
           link: '/blog/',
-          children: ['/blog/github-stars', '/blog/vue-django', '/blog/andela', '/blog/beta-tester'],
+          children: ['/blog/github-stars', '/blog/vue-django', '/blog/andela'],
         },
       ],
     },

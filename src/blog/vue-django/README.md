@@ -1,5 +1,6 @@
 ---
-prev: /blog
+editLink: true
+prev: /blog/github-stars
 next: /blog/andela
 ---
 
