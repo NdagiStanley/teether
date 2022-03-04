@@ -3,7 +3,17 @@
 - Built using VuePress
 - Hosted on Netlify
 
+## Pull submodules
+
 `src/.vuepress/public` is a submodule which is a private GitHub repository.
+
+Run this command to pull the repo after cloning:
+
+```bash
+git submodule update --recursive --remote
+```
+
+> Also, run the same command to get the most recent changes and commit before pushing
 
 ## Run
 
