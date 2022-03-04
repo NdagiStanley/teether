@@ -32,6 +32,7 @@ Since then the project has had:
 - [500+ stars][stars]
 - [70+ forks][forks]
 - [5 closed issues][issues] (user created)
+- [An improved boilerplate][gitlab] based on VueDjango that includes CI/CD (Gitlab pipeline), Docker/Docker-Compose, Nginx, and PostgreSQL
 
 Referenced severally in articles, conference talks and forums: (Search for vue-django. In some cases it's deep within the content)
 
@@ -77,3 +78,4 @@ I’m honoured. Let’s keep up the good work :muscle:.
 [forks]: https://github.com/NdagiStanley/vue-django/network/members
 [issues]: https://github.com/NdagiStanley/vue-django/issues?q=is%3Aissue+is%3Aclosed+label%3Abug
 [opencollective]: https://opencollective.com/vue-django
+[gitlab]: https://gitlab.com/electrocnic/vue-django-ci-cd-boilerplate
