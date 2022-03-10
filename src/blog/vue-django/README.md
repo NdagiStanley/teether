@@ -66,6 +66,8 @@ Vue-Django is on [OpenCollective][opencollective] (should anyone want to back it
 
 I’m honoured. Let’s keep up the good work :muscle:.
 
+<Disqus />
+
 [code.md]: https://code.md.engineer
 [vue-django]: https://code.md.engineer/vue-django/
 [sjourney]: https://sjourney.herokuapp.com/

@@ -13,6 +13,7 @@
   "devDependencies": {
     "@vuepress/utils": "next",
     "@vuepress/plugin-register-components": "next",
-    "vuepress": "next"
+    "vuepress": "next",
+    "vue-disqus": "next"
   }
 }

@@ -22,3 +22,5 @@ I think of all humanity as being on a journey of becoming! Today marks Andela's 
 <div class="center">
   Signing out!
 </div>
+
+<Disqus />
