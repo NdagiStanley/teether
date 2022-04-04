@@ -23,15 +23,15 @@ module.exports = {
         children: [
           {
             text: 'Me',
-            link: '/me/',
+            link: '/me/'
           },
           {
             text: 'My Vision',
-            link: '/vision/',
+            link: '/vision/'
           },
           {
             text: 'Beta Tester',
-            link: '/beta-tester/',
+            link: '/beta-tester/'
           }
         ]
       },
@@ -40,16 +40,16 @@ module.exports = {
         children: [
           {
             text: 'About',
-            link: '/kingdombiz/',
+            link: '/kingdombiz/'
           },
           {
             text: 'Tech',
-            link: '/kingdombiz/tech/',
+            link: '/kingdombiz/tech/'
           },
           {
             text: 'Testimonies',
-            link: '/kingdombiz/testimonies/',
-          },
+            link: '/kingdombiz/testimonies/'
+          }
         ]
       },
       {
@@ -78,7 +78,7 @@ module.exports = {
             text: 'Code on GitHub',
             link: 'https://github.com/NdagiStanley',
             target: '_blank'
-          },
+          }
         ]
       },
       {
@@ -88,16 +88,21 @@ module.exports = {
       },
       {
         text: 'Contact',
-        link: '/contact/',
-      },
+        link: '/contact/'
+      }
     ],
     sidebar: {
       '/vision': [
         {
           text: 'Vision',
           link: '/vision/',
-          children: ['/vision/2020', '/vision/2019', '/vision/2018', '/vision/2016'],
-        },
+          children: [
+            '/vision/2020',
+            '/vision/2019',
+            '/vision/2018',
+            '/vision/2016'
+          ]
+        }
       ],
       '/kingdombiz': [
         {
@@ -110,28 +115,28 @@ module.exports = {
               link: '/kingdombiz/testimonies',
               children: ['/kingdombiz/testimonies/domains']
             }
-          ],
-        },
+          ]
+        }
       ],
       '/blog': [
         {
           text: 'Blog',
           link: '/blog/',
-          children: ['/blog/github-stars', '/blog/vue-django', '/blog/andela'],
-        },
-      ],
+          children: ['/blog/github-stars', '/blog/vue-django', '/blog/andela']
+        }
+      ]
     },
     themePlugins: {
       // disable git plugin
-      git: false,
-    },
+      git: false
+    }
   },
   plugins: [
     [
       '@vuepress/register-components',
       {
-        componentsDir: path.resolve(__dirname, './components'),
-      },
-    ],
-  ],
+        componentsDir: path.resolve(__dirname, './components')
+      }
+    ]
+  ]
 }

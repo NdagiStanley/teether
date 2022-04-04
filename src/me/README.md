@@ -5,14 +5,14 @@ search: false
 
 # About Stan
 
-***Software Engineer | Digerati*** is the most concise way I, Stanley Ndagi, choose to describe myself.
+**_Software Engineer | Digerati_** is the most concise way I, Stanley Ndagi, choose to describe myself.
 
 Welcome to the long version of it, below.
 
 ::: tip
 Navigation is on the left sidebar.
 
-*Collapse the menu on the left (Swipe from the left, if you're on mobile)*
+_Collapse the menu on the left (Swipe from the left, if you're on mobile)_
 :::
 
 ## Who am I?
@@ -30,7 +30,7 @@ Stan
 
 ### Personal Mantra
 
-> *Invoke the builder within and serve*
+> _Invoke the builder within and serve_
 
 #### What does this mean?
 
@@ -53,9 +53,9 @@ This mantra reminds me of this identity; calling me to action!
 
 ### In the media
 
-- Speaking on Open Source while at DockerCon 2018 - by [TFIR][TFIR].
+- Speaking on Open Source while at DockerCon 2018 - by [TFIR][tfir].
 
-  [Video link][TFIR-video]
+  [Video link][tfir-video]
   <iframe
       src="https://www.youtube.com/embed/OSYMXCVCdXk"
       frameborder="0"
@@ -64,9 +64,9 @@ This mantra reminds me of this identity; calling me to action!
   >
   </iframe>
 
-- Narrating a day in my life as a software engineer - by [Andela][Andela] during my days working there.
+- Narrating a day in my life as a software engineer - by [Andela][andela] during my days working there.
 
-  [Video link][Andela-video]
+  [Video link][andela-video]
   <iframe
       src="https://www.youtube.com/embed/ulQt9BBTfFU"
       frameborder="0"
@@ -95,10 +95,10 @@ I share the following, chiefly, to give insight.
 
 ### 'Fandom' - people and initiatives I fancy/ follow
 
-I'm not the ***stan**** kind of a fan (bad joke :sweat_smile:) but here's my non-exhaustive list:
+I'm not the **\*stan\*\*** kind of a fan (bad joke :sweat_smile:) but here's my non-exhaustive list:
 
-- [Bible Project](https://bibleproject.com/) (Bible) - *I've written more about the Bible Project [here][kb-bibleproject]*.
-- [YouVersion](https://www.youversion.com/) (Bible & tech) - *I've written more about YouVersion [here][kb-youversion]*.
+- [Bible Project](https://bibleproject.com/) (Bible) - _I've written more about the Bible Project [here][kb-bibleproject]_.
+- [YouVersion](https://www.youversion.com/) (Bible & tech) - _I've written more about YouVersion [here][kb-youversion]_.
 - [Nutrition Facts](https://nutritionfacts.org/) (health)
 - [MKBHD](https://www.youtube.com/user/marquesbrownlee) (tech)
 - [Living Big in a Tiny House](https://www.youtube.com/user/livingbigtinyhouse) (DIY & minimalism)
@@ -137,11 +137,11 @@ These cut across learning, entertainment, insight and DIY
 
 - GitHub: [NdagiStanley][gh]
 - Twitter: [NdagiStanley][twitter]
-- LinkedIn: [NdagiStanley][Ln]
-- Facebook: [NdagiStanley][FB]
+- LinkedIn: [NdagiStanley][ln]
+- Facebook: [NdagiStanley][fb]
 - Codementor: [NdagiStanley][codementor]
-- Bitbucket: [NdagiStanley][BB]
-- GitLab: [NdagiStanley][Gl]
+- Bitbucket: [NdagiStanley][bb]
+- GitLab: [NdagiStanley][gl]
 - DevPost: [NdagiStanley][devpost]
 - Youtube: [NdagiStanley][youtube-channel]
 - :headphones: Jam to [my playlists on Spotify][spotify]
@@ -161,18 +161,20 @@ WWW\*: World Wide Web
 [kingdombiz]: /kingdombiz
 [devstory]: https://md.engineer/devstory
 [tk]: https://techkln.org
-[TFIR]: https://www.tfir.io
-[Andela]: https://andela.com
+[tfir]: https://www.tfir.io
+[andela]: https://andela.com
 [vuedj]: https://github.com/NdagiStanley/vue-django
 [lifebuoy]: https://marketplace.visualstudio.com/items?itemName=NdagiStanley.lifebuoy
 [blog/vuedjango]: /blog/vue-django
 [code]: https://github.com/NdagiStanley#code-tech
 
 <!-- Videos -->
-[Andela-video]: https://youtu.be/ulQt9BBTfFU
-[TFIR-video]: https://youtu.be/OSYMXCVCdXk
+
+[andela-video]: https://youtu.be/ulQt9BBTfFU
+[tfir-video]: https://youtu.be/OSYMXCVCdXk
 
 <!-- Publications -->
+
 [circleci-blog]: https://circleci.com/blog/author/stanley-ndagi
 [andela-blog]: https://andela.com/insights/building-future-data-enigma
 [scotchio]: https://web.archive.org/web/20211229200104/https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one
@@ -182,18 +184,20 @@ WWW\*: World Wide Web
 [medium]: https://medium.com/@NdagiStanley
 
 <!-- Others -->
+
 [kb-youversion]: https://bit.ly/KB-youversion
 [kb-bibleproject]: https://bit.ly/KB-bibleproject
 
 <!-- Socials -->
+
 [home]: /
 [twitter]: https://twitter.com/NdagiStanley
 [gh]: https://github.com/NdagiStanley
-[Ln]: https://www.linkedin.com/in/ndagistanley
-[FB]: https://facebook.com/NdagiStanley
+[ln]: https://www.linkedin.com/in/ndagistanley
+[fb]: https://facebook.com/NdagiStanley
 [codementor]: https://www.codementor.io/@ndagistanley
-[BB]: https://bitbucket.com/stanmd
-[Gl]: https://gitlab.com/NdagiStanley
+[bb]: https://bitbucket.com/stanmd
+[gl]: https://gitlab.com/NdagiStanley
 [devpost]: https://devpost.com/ndagistanley
 [youtube-channel]: https://youtube.com/c/ndagistanley
 [spotify]: https://open.spotify.com/user/stan_md
@@ -201,10 +205,12 @@ WWW\*: World Wide Web
 [lichess]: https://lichess.org/@/stanmd
 
 <!-- Contact -->
+
 [chat]: /chat
 [meet]: https://md.engineer/meet
 
 <!-- Reference -->
+
 [tinkerer]: https://www.vocabulary.com/dictionary/tinkerer
 [stan]: https://en.wikipedia.org/wiki/Fan_(person)#"Stan"_fans
 

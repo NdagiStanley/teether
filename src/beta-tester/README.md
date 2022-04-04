@@ -52,7 +52,7 @@ I have been an innovator, very few times. I think, maybe I have not gotten my ni
 
   Examples:
 
-  - [Microsoft launcher][MS launcher] was formerly Arrow Launcher
+  - [Microsoft launcher][ms launcher] was formerly Arrow Launcher
 
 - Early adopters sometimes are enrolled in a beta-testing program; hence they contribute to the future of the product (sometimes this comes with perks) :tada:
 
@@ -67,5 +67,5 @@ I have been an innovator, very few times. I think, maybe I have not gotten my ni
 [inbox]: https://gmail.google.com/inbox/
 [killed-by-google]: https://killedbygoogle.com/
 [ratio]: https://www.blloc.com/
-[MS launcher]: https://www.microsoft.com/en-us/launcher
+[ms launcher]: https://www.microsoft.com/en-us/launcher
 [youversion]: https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android

@@ -6,7 +6,7 @@ next: /blog/andela
 
 # Vue-Django - 500 GitHub stars
 
-500 GitHub stars and counting …  :star: :star: :star:
+500 GitHub stars and counting … :star: :star: :star:
 
 On my _dated_ open-source page: [code.md.engineer][code.md], the first project I have quoted is [VueDjango][vue-django]; a full-featured Webpack setup of a VueJS 2.x app with hot-reload, lint-on-save, unit testing & css extraction integrated into a Django 2.x application.
 
@@ -14,13 +14,13 @@ It has over 500 stars on GitHub now! :fire:
 
 > Context
 
-  _Python is my main tool of trade as a Software/ Data Engineer. In a previous project, I challenged myself to use Django and VueJS hand-in-hand. It was a [photo-editing application][sjourney] (Don’t mind the missing image on the homepage, **postimg.org** is no longer up. I use [imgur][imgur] these days :wink:) Here is its [codebase][sjourney-code]. I had worked on another application with the same technical requirements: VueJS and Django: [not-by-might][nbm]. The only difference between the two is that I used semantic UI on one (the former) and Bootstrap on another (the latter)._
+_Python is my main tool of trade as a Software/ Data Engineer. In a previous project, I challenged myself to use Django and VueJS hand-in-hand. It was a [photo-editing application][sjourney] (Don’t mind the missing image on the homepage, **postimg.org** is no longer up. I use [imgur][imgur] these days :wink:) Here is its [codebase][sjourney-code]. I had worked on another application with the same technical requirements: VueJS and Django: [not-by-might][nbm]. The only difference between the two is that I used semantic UI on one (the former) and Bootstrap on another (the latter)._
 
 Back to vue-django. This project has three variations:
 
-- Django 1.\* - Vue 1.*
-- Django 1.\* - Vue 2.*
-- Django 2.\* - Vue 2.*
+- Django 1.\* - Vue 1.\*
+- Django 1.\* - Vue 2.\*
+- Django 2.\* - Vue 2.\*
 
 It's made such that by following [these steps][steps], you have a project similar to what is hosted [here][vuedj] and you are ready to go.
 

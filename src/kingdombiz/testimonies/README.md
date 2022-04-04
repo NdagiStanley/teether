@@ -5,11 +5,11 @@ next: /kingdombiz/testimonies/domains
 
 # Testimonies
 
-Time and again [Rev 12:11][REV.12.11 NIV] is quoted to emphasize the power of a testimony.
+Time and again [Rev 12:11][rev.12.11 niv] is quoted to emphasize the power of a testimony.
 
 > _They triumphed over him by the blood of the Lamb and by **the word of their testimony**; they did not love their lives so much as to shrink from death._
 
-Although, there's a lot to unpack from this verse, compare translations [here][REV.12.11], it's clear testimonies are powerful.
+Although, there's a lot to unpack from this verse, compare translations [here][rev.12.11], it's clear testimonies are powerful.
 
 I believe ultimately testimonies build faith both of the hearer and the testifier.
 
@@ -19,6 +19,6 @@ Here I share moments where I can say; He takes center-stage:
 
 - [Domain names fiasco][domains]
 
-[REV.12.11 NIV]: https://www.bible.com/bible/111/REV.12.11.NIV
-[REV.12.11]: https://www.bible.com/bible/compare/REV.12.11
+[rev.12.11 niv]: https://www.bible.com/bible/111/REV.12.11.NIV
+[rev.12.11]: https://www.bible.com/bible/compare/REV.12.11
 [domains]: /kingdombiz/testimonies/domains

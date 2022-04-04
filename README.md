@@ -38,7 +38,7 @@ Use node version: ^12.20.0 || ^14.13.0 || >=15.0.0
   hs src/.vuepress/dist
   ```
 
-*hs - `http-server` ([npm package](https://www.npmjs.com/package/http-server))
+\*hs - `http-server` ([npm package](https://www.npmjs.com/package/http-server))
 
 ## Editing guide
 

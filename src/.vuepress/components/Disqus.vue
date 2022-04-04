@@ -1,9 +1,9 @@
 <template>
-  <div class='comments'>
-    <div class='comments-header'>
+  <div class="comments">
+    <div class="comments-header">
       <h3>Comments</h3>
     </div>
-    <Disqus shortname='mdeng' />
+    <Disqus shortname="mdeng" />
   </div>
 </template>
 <script>

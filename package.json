@@ -6,7 +6,8 @@
   "repository": "https://github.com/NdagiStanley/home",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "format": "prettier --write \"**/*.{js,vue,md,html,json}\" --ignore-path .gitignore"
   },
   "author": "Ndagi Stanley <ndagis@gmail.com>",
   "license": "MIT",
@@ -14,6 +15,7 @@
     "@vuepress/utils": "next",
     "@vuepress/plugin-register-components": "next",
     "vuepress": "next",
-    "vue-disqus": "next"
+    "vue-disqus": "next",
+    "prettier": "^2.5.1"
   }
 }
