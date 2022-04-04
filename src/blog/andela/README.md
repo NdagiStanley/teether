@@ -1,10 +1,11 @@
 ---
 prev: /blog/vue-django
+editLink: true
 ---
 
 # A great run at Andela
 
-> 7*7 months - Yes, that's 49 months.
+> 7\*7 months - Yes, that's 49 months.
 
 The acronym TIA could be expanded to various trios of words depending on who you ask.
 
@@ -16,8 +17,10 @@ I carry a lot from my time in Andela. Paramount of which, the charge of striving
 
 I think of all humanity as being on a journey of becoming! Today marks Andela's mark in my journey :clinking_glasses:.
 
-![](../../.vuepress/public/images/andela-2016.jpg)
+![Andela 2016](../../.vuepress/public/images/andela-2016.jpg)
 
 <div class="center">
   Signing out!
 </div>
+
+<Disqus />

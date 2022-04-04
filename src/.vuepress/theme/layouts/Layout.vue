@@ -5,7 +5,7 @@ import ParentLayout from '@vuepress/theme-default/lib/client/layouts/Layout.vue'
 <template>
   <ParentLayout>
     <template #page-bottom>
-      <CustomFooter/>
+      <CustomFooter />
     </template>
   </ParentLayout>
 </template>
