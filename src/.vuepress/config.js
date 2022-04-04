@@ -137,6 +137,12 @@ module.exports = {
       {
         componentsDir: path.resolve(__dirname, './components')
       }
+    ],
+    [
+      '@vuepress/google-analytics',
+      {
+        ga: 'G-8D4036CM5X' // UA-00000000-0
+      }
     ]
   ]
 }
