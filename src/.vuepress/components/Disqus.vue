@@ -15,3 +15,8 @@ export default {
   }
 }
 </script>
+<style>
+html.dark {
+  color-scheme: none;
+}
+</style>
