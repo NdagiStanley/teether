@@ -122,7 +122,12 @@ module.exports = {
         {
           text: 'Blog',
           link: '/blog/',
-          children: ['/blog/github-stars', '/blog/vue-django', '/blog/andela']
+          children: [
+            '/blog/github-stars',
+            '/blog/vue-django',
+            '/blog/andela',
+            '/blog/f8-2019'
+          ]
         }
       ]
     },

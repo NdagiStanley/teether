@@ -1,6 +1,7 @@
 ---
-prev: /blog/vue-django
 editLink: true
+prev: /blog/vue-django
+next: /blog/f8-2019
 ---
 
 # A great run at Andela
