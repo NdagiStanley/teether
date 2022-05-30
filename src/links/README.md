@@ -15,6 +15,7 @@ navbar: false
 [profile]: /
 [elsewhere]: /me/#where-else-can-i-be-found
 [mentor]: https://md.engineer/mentor
+[contact]: /contact
 [kb]: /kingdombiz
 [music]: https://imgur.com/IHJqsFz
 [stackoverflow-story]: https://stackoverflow.com/story/ndagistanley
