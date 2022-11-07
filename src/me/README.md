@@ -95,7 +95,7 @@ I share the following, chiefly, to give insight.
 
 ### 'Fandom' - people and initiatives I fancy/ follow
 
-I'm not the **\*stan\*\*** kind of a fan (bad joke :sweat_smile:) but here's my non-exhaustive list:
+I'm not the **stan*** kind of a fan (bad joke :sweat_smile:) but here's my non-exhaustive list:
 
 - [Bible Project](https://bibleproject.com/) (Bible) - _I've written more about the Bible Project [here][kb-bibleproject]_.
 - [YouVersion](https://www.youversion.com/) (Bible & tech) - _I've written more about YouVersion [here][kb-youversion]_.
@@ -151,8 +151,6 @@ These cut across learning, entertainment, insight and DIY
 Use any of the platforms listed [here][chat] if you'd like to reach out including [meeting up on a call or otherwise][meet]. :smile:
 
 ---
-
-tinkerer\*: a person who enjoys fixing and experimenting with machines and their parts. ([Reference][tinkerer]).
 
 stan\*: (portmanteau of **St**alker & f**an**) a particularly, perhaps excessively, avid fan. ([Reference][stan]).
 
@@ -211,7 +209,6 @@ WWW\*: World Wide Web
 
 <!-- Reference -->
 
-[tinkerer]: https://www.vocabulary.com/dictionary/tinkerer
 [stan]: https://en.wikipedia.org/wiki/Fan_(person)#"Stan"_fans
 
 <!-- TODO -->

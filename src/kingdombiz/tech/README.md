@@ -28,14 +28,15 @@ Here you'll find volunteer opportunities, apps and software you can use, communi
 1.  [Read Scripture][readscripture]
     An app plus downloadable pdf to guide you to read through the Bible in a year
 
-        [Scripture Labs][scripture.labs] (A deeper study by Read Scripture)
+    [Scripture Labs][scripture.labs] (A deeper study by Read Scripture)
 
 1.  [Pray.com][pray]
-    Daily Prayer, Bedtime stories
-    Allows faith-based communities and non-profits to sell premium audio
+    Daily Prayer, Bedtime stories, Allows faith-based communities and non-profits to sell premium audio
 
-        - :iphone: [Android app on Google Play store][pray-android]
-        - :iphone: [iOS app on App store][pray-ios]
+    - :iphone: [Android app on Google Play store][pray-android]
+    - :iphone: [iOS app on App store][pray-ios]
+
+    > Bible app (YouVersion) in #1 above, released a prayer feature hence I don't use **pray.com** any more.
 
 1.  [API.bible][scripture.api.bible]
 

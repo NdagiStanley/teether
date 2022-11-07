@@ -31,7 +31,7 @@ Software Engineer
 Technical Copywriter
 
 # General
-**Digerati | **Tinkerer | Writer
+Digerati` | Tinkerer* | Writer
 ```
 
   </CodeGroupItem>
