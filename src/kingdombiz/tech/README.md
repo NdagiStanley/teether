@@ -7,11 +7,15 @@ next: /kingdombiz/testimonies
 
 > Being a digerati, I incorporate tech in my Christian walk
 
-"The best of both worlds
+::: tip
+<Tip/>
+:::
 
 ![Professor Hulk](../../.vuepress/public/images/kb/professorhulk.gif)
 
-_Here's Professor Hulk a fictional character co-created by the one [Stan Lee][stan lee]. If you're a fan of [Marvel Cinematic Universe][mcu], you'll get it_
+_Here's Professor Hulk a fictional character co-created by the one [Stan Lee][stan lee]. If you're a fan of [Marvel Cinematic Universe][mcu], you'll get it._
+
+### List of tools and resources
 
 Below is a **non-exhaustive list** of tools and resources I use plus causes/ initiatives that, in my view, are using tech notably to advance the Kingdom of God. I hope they prove insightful if not useful.
 

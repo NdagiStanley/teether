@@ -26,11 +26,11 @@ module.exports = {
             link: '/me/'
           },
           {
-            text: 'My Vision',
+            text: 'Vision',
             link: '/vision/'
           },
           {
-            text: 'Beta Tester',
+            text: 'Beta Testing',
             link: '/beta-tester/'
           }
         ]

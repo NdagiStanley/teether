@@ -5,6 +5,12 @@ next: /vision/2020
 
 # Vision
 
+> A **vision** is a mental picture that can be used to direct one's actions as a guide providing a sense of purpose.
+
+::: tip
+<Tip/>
+:::
+
 ## Overview
 
 Certain aspects of an individual's vision are personal and nuanced. We won't get into that. Here I'll share my approach to casting an annual personal vision.

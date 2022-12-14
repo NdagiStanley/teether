@@ -4,6 +4,12 @@ sidebar: auto
 
 # Stan as a beta-tester
 
+> A **beta-tester** is a person in a target market who is compensated (monetarily, in kind, or never) to offer feedback and sometimes testimonials of a product, a product's feature, or service.
+
+::: tip
+<Tip/>
+:::
+
 ## Innovation Life Cycle
 
 It goes by many names: Technology adoption model/ curve/ life cycle/...
@@ -23,14 +29,14 @@ I have been an innovator, very few times. I think, maybe I have not gotten my ni
 - Some products fail to achieve profitability hence die out :-1:
 - Some products are 'killed' (decommissioned) by their creators :angry:
 
-  > Sometimes you're one of the many/ few who liked it)
+  > Sometimes you're one of the few (sometimes many) who liked it
 
   Examples:
 
   - Google+ [launched][g+ launch] then [shutdown][g+] by Google on April 2019
   - [Inbox by Google][inbox] shut down by Google on April 2, 2019
 
-    Google is notorius for such. [Killedbygoogle.com][killed-by-google] is a site listing products that have been 'killed' by Google.
+    Google is notorious for such. [Killedbygoogle.com][killed-by-google] is a site listing products that have been 'killed' by Google.
 
 - Some products start as freemium then have a subscription/ paid product :roll_eyes: (Of course, they need to make money)
 
@@ -52,13 +58,13 @@ I have been an innovator, very few times. I think, maybe I have not gotten my ni
 
   Examples:
 
-  - [Microsoft launcher][ms launcher] was formerly Arrow Launcher
+  - [Microsoft launcher][ms-launcher] was formerly Arrow Launcher
 
 - Early adopters sometimes are enrolled in a beta-testing program; hence they contribute to the future of the product (sometimes this comes with perks) :tada:
 
 ## Current products I'm a beta tester of
 
-- GitHub (as a [GitHub Star][gh star] )
+- GitHub (as a [GitHub Star][gh star])
 - [YouVersion][youversion]
 
 [g+ launch]: https://googleblog.blogspot.com/2011/06/introducing-google-project-real-life.html
@@ -67,5 +73,5 @@ I have been an innovator, very few times. I think, maybe I have not gotten my ni
 [inbox]: https://gmail.google.com/inbox/
 [killed-by-google]: https://killedbygoogle.com/
 [ratio]: https://www.blloc.com/
-[ms launcher]: https://www.microsoft.com/en-us/launcher
+[ms-launcher]: https://www.microsoft.com/en-us/launcher
 [youversion]: https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android

@@ -6,7 +6,7 @@ next: /blog/andela
 
 # Vue-Django - 500 GitHub stars
 
-500 GitHub stars and counting … :star: :star: :star:
+> 500 GitHub stars and counting… :star: :star: :star:
 
 On my _dated_ open-source page: [code.md.engineer][code.md], the first project I have quoted is [VueDjango][vue-django]; a full-featured Webpack setup of a VueJS 2.x app with hot-reload, lint-on-save, unit testing & css extraction integrated into a Django 2.x application.
 

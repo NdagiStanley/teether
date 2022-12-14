@@ -1,7 +1,7 @@
 <template>
   <div class="home-div">
     <div class="spaced">
-      `<i>Digerati</i> - (Digital + literati) I consider myself literate in the
+      ` <i>Digerati</i> - (Digital + literati) I consider myself literate in the
       digital space.
       <a
         target="_blank"
@@ -10,7 +10,7 @@
       >
     </div>
     <div>
-      *<i>Tinkerer</i> - I enjoy fixing and experimenting with machines and
+      * <i>Tinkerer</i> - I enjoy fixing and experimenting with machines and
       their parts (hardware and software).
       <a target="_blank" href="https://www.vocabulary.com/dictionary/tinkerer"
         >Reference</a

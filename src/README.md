@@ -4,7 +4,7 @@ search: false
 sidebar: false
 heroImage: stan.png
 heroAlt: Stan's head shot
-tagline: Software Engineer | Digerati
+tagline: Digerati | Tinkerer
 title: Stan_MD
 actions:
   - text: About
@@ -26,12 +26,16 @@ actions:
   <CodeGroupItem title="" active>
 
 ```md:no-line-numbers
+Digerati` | Tinkerer*
+
 # Profession
 Software Engineer
-Technical Copywriter
+Technical Author, Writer, and Copywriter
 
-# General
-Digerati` | Tinkerer* | Writer
+# et al (Others)
+Tech community lead
+Writer and Editor (English & Swahili)
+Technical consultant (pro bono/ for hire) -> contact me
 ```
 
   </CodeGroupItem>

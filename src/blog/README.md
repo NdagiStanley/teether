@@ -1,5 +1,9 @@
 # General Blog
 
+::: tip
+<Tip/>
+:::
+
 Captured here is a list of my musings (periods of reflection or thought) among other pen strokes captured in writing, photos and/or videos.
 
 - [GitHub Stars Program][github-stars] (Feb 2022)

@@ -5,6 +5,10 @@ next: /kingdombiz/tech
 
 # KingdomBIZ
 
+::: tip
+<Tip/>
+:::
+
 ## What does KingdomBIZ mean?
 
 Jesus Christ, believed to be the Son of God (the triune God), according to the Bible (a collection of books that has survived millennia whose authors claim to be inspired by God), is claimed to have said the following words:
