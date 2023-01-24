@@ -10,7 +10,9 @@ navbar: false
 - [Mentorship][mentor]
 - [KingdomBIZ][kb]
 - [Coding music][music]
-- [My journey in Tech][stackoverflow-story]
+- [TechKln][tk]
+<!-- TODO: Recreate a page like that one -->
+<!-- - [My journey in Tech][stackoverflow-story] -->
 
 [profile]: /
 [elsewhere]: /me/#where-else-can-i-be-found
@@ -18,4 +20,5 @@ navbar: false
 [contact]: /contact
 [kb]: /kingdombiz
 [music]: https://imgur.com/IHJqsFz
-[stackoverflow-story]: https://stackoverflow.com/story/ndagistanley
+[tk]: https://techkln.org
+<!-- [stackoverflow-story]: https://stackoverflow.com/story/ndagistanley -->
