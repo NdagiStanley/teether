@@ -32,7 +32,7 @@ Stan
 
 #### What does this mean?
 
-Besides being a **creative** (building stuff and tinkering) I choose to go **beyond self**, and work on impacting others. More specifically work-wise, I thrive as an enabler, inventor, and galvanizer (based on the [6 Working geniuses by Patrick Lencioni][working-genius] )
+Besides being a **creative** (building stuff and tinkering) I choose to go **beyond self**, and work on impacting others. More specifically work-wise, I thrive as an enabler, inventor, and galvanizer (based on the [6 Working geniuses by Patrick Lencioni][working-genius]* )
 
 This mantra reminds me of this identity; calling me to action!
 
@@ -152,12 +152,14 @@ Use any of the platforms listed [here][chat] if you'd like to reach out includin
 
 ---
 
+6 Working geniuses by Patrick Lencioni\*: find out more at [workinggenius.com](https://www.workinggenius.com). This [intro video](https://vimeo.com/575386322) gives you the gist of it and there are more [resources](https://www.workinggenius.com/resources) to take peruse.
+
 stan\*: (portmanteau of **St**alker & f**an**) a particularly, perhaps excessively, avid fan. ([Reference][stan]).
 
 WWW\*: World Wide Web
 
 [kingdombiz]: /kingdombiz
-[working-genius]: https://files.tablegroup.com/wp-content/uploads/2022/09/21090156/Introduction-to-The-Working-Genius.pdf
+[working-genius]: https://md.engineer/working-genius-intro.pdf
 [tk]: https://techkln.org
 [tfir]: https://www.tfir.io
 [andela]: https://andela.com
