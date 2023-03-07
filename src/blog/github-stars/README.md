@@ -6,6 +6,8 @@ next: /blog/vue-django
 
 # Honoured to be a GitHub star
 
+My [GitHub star profile][ghstar profile]
+
 ## GitHub Stars Program
 
 The program is summarized as follows:
@@ -36,6 +38,7 @@ Like any nomination, you accept or reject it. I accepted!. Reasons:
 
 <Disqus />
 
+[ghstar profile]: https://stars.github.com/profiles/ndagistanley/
 [serah twitter]: https://twitter.com/serahrono
 [serah ghstar profile]: https://web.archive.org/web/20211216152138/https://stars.github.com/profiles/serahrono/
 [beta-tester]: /beta-tester
