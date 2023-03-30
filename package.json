@@ -12,10 +12,11 @@
   "author": "Ndagi Stanley <ndagis@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/utils": "next",
     "@vuepress/plugin-register-components": "next",
-    "vuepress": "next",
+    "@vuepress/utils": "next",
+    "prettier": "^2.5.1",
     "vue-disqus": "next",
-    "prettier": "^2.5.1"
-  }
+    "vuepress": "next"
+  },
+  "dependencies": {}
 }

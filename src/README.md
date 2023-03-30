@@ -28,14 +28,18 @@ actions:
 ```md:no-line-numbers
 Digerati` | Tinkerer*
 
-# Profession
-Software Engineer
-Technical Author, Writer, and Copywriter
+# Professional
+Technical consultant in Engineering and Product
 
-# et al (Others)
+Engineering: Full-Stack, Team lead & DevOps
+Product: Management & Docs
+
+# Et al. (Others)
 Tech community lead
-Writer and Editor (English & Swahili)
-Technical consultant (pro bono/ for hire) -> contact me
+Author and Editor (English & Swahili)
+Open Source contributor and maintainer
+Mentor
+Pro bono consultant
 ```
 
   </CodeGroupItem>
