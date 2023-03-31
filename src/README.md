@@ -34,12 +34,16 @@ Technical consultant in Engineering and Product
 Engineering: Full-Stack, Team lead & DevOps
 Product: Management & Docs
 
+# Faith
+Christian
+
 # Et al. (Others)
 Tech community lead
 Author and Editor (English & Swahili)
 Open Source contributor and maintainer
-Mentor
 Pro bono consultant
+Mentor
+... the list continues
 ```
 
   </CodeGroupItem>

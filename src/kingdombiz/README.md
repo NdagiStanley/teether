@@ -9,6 +9,24 @@ next: /kingdombiz/tech
 <Tip/>
 :::
 
+## Global citizen as salt and light
+
+I'm born in Kenya, thus a citizen by birth but consider myself a global citizen. I like how [Oxfam defines it](https://www.oxfam.org.uk/education/who-we-are/what-is-global-citizenship/); someone who is aware of and understands the wider world – and their place in it.
+
+Beyond that in my faith as a Christian, I am **Salt** and **Light** according to [Matthew 5:13-16](https://www.bible.com/bible/111/MAT.5.13-16.NIV).
+
+> :speaking_head: Verse 13: “You are the **salt of the earth**; but if the salt loses its flavor (saltiness), how shall it be seasoned (salty again)? It is then good for nothing (no longer good for anything) but to be thrown out and trampled underfoot by men.
+>
+> :speaking_head: Verse 14-16: “You are the **light of the world**. A city (town) that is set (built) on a hill cannot be hidden. Nor do they (Neither do people) light a lamp and put it under a basket (bowl), but on a lampstand (its stand), and it gives light to all who are (everyone) in the house. (In the same way,) Let your light so shine before men (others), that they may see your good works and glorify your Father in heaven.
+
+I view it as a call to be relevant and impactful to my fellow human beings (SALT) and glorify my God, whose glory I radiate (LIGHT).
+
+Beyond being a global citizen as salt and light, I'm about the business of the Kingdom of God, aptly named: KingdomBIZ.
+
+<div class="center">
+<img src="../.vuepress/public/images/kb/salt-light-kingdombiz.png">
+</div>
+
 ## What does KingdomBIZ mean?
 
 Jesus Christ, believed to be the Son of God (the triune God), according to the Bible (a collection of books that has survived millennia whose authors claim to be inspired by God), is claimed to have said the following words:
