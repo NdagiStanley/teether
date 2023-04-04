@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Personal web profile - Ndagi, Stanley M.",
   "main": "index.js",
-  "repository": "https://github.com/NdagiStanley/home",
+  "repository": "https://github.com/NdagiStanley/teether",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src",
