@@ -27,7 +27,6 @@ Verse 14-16:
 >
 > [Other translations][Matt 5.14-16]
 
-
 I view it as a call to be relevant and impactful to my fellow human beings (SALT) and glorify my God, whose glory I radiate (LIGHT).
 
 Beyond being a global citizen as salt and light, I'm about the business of the Kingdom of God, aptly named: KingdomBIZ.
