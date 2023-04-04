@@ -141,7 +141,10 @@ module.exports = {
       '@vuepress/register-components',
       {
         componentsDir: path.resolve(__dirname, './components')
-      }
+      },
+      googleAnalyticsPlugin({
+        id: 'G-F8VL49KBXF'
+      })
     ]
   ]
 }

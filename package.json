@@ -12,6 +12,7 @@
   "author": "Ndagi Stanley <ndagis@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^2.0.0-beta.61",
     "@vuepress/plugin-register-components": "next",
     "@vuepress/utils": "next",
     "prettier": "^2.5.1",
