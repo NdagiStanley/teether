@@ -13,11 +13,20 @@ next: /kingdombiz/tech
 
 I'm born in Kenya, thus a citizen by birth but consider myself a global citizen. I like how [Oxfam defines it](https://www.oxfam.org.uk/education/who-we-are/what-is-global-citizenship/); someone who is aware of and understands the wider world – and their place in it.
 
-Beyond that in my faith as a Christian, I am **Salt** and **Light** according to [Matthew 5:13-16](https://www.bible.com/bible/111/MAT.5.13-16.NIV).
+Beyond that in my faith as a Christian, I am **Salt** and **Light** according to [Matthew 5:13-16 NKJV (New King James Version)][Matt 5.13-16 nkjv].
 
-> :speaking_head: Verse 13: “You are the **salt of the earth**; but if the salt loses its flavor (saltiness), how shall it be seasoned (salty again)? It is then good for nothing (no longer good for anything) but to be thrown out and trampled underfoot by men.
+Verse 13:
+
+> :speaking_head: “You are the **salt of the earth**; but if the salt loses its flavor (saltiness), how shall it be seasoned (salty again)? It is then good for nothing (no longer good for anything) but to be thrown out and trampled underfoot by men.
 >
-> :speaking_head: Verse 14-16: “You are the **light of the world**. A city (town) that is set (built) on a hill cannot be hidden. Nor do they (Neither do people) light a lamp and put it under a basket (bowl), but on a lampstand (its stand), and it gives light to all who are (everyone) in the house. (In the same way,) Let your light so shine before men (others), that they may see your good works and glorify your Father in heaven.
+> [Other translations][Matt 5.13]
+
+Verse 14-16:
+
+> :speaking_head: “You are the **light of the world**. A city (town) that is set (built) on a hill cannot be hidden. Nor do they (Neither do people) light a lamp and put it under a basket (bowl), but on a lampstand (its stand), and it gives light to all who are (everyone) in the house. (In the same way,) Let your light so shine before men (others), that they may see your good works and glorify your Father in heaven.
+>
+> [Other translations][Matt 5.14-16]
+
 
 I view it as a call to be relevant and impactful to my fellow human beings (SALT) and glorify my God, whose glory I radiate (LIGHT).
 
@@ -93,6 +102,9 @@ aptly:
 - [Testimonies][testimonies]
   - [Domain names fiasco (a testimony)][domains]
 
+[Matt 5.13-16 nkjv]: https://www.bible.com/bible/114/MAT.5.13-16.NKJV
+[Matt 5.13]: https://www.bible.com/bible/compare/MAT.5.13
+[Matt 5.14-16]: https://www.bible.com/bible/compare/MAT.5.14-16
 [luke 2.49 nkjv]: https://my.bible.com/bible/114/LUK.2.49.NKJV
 [luke 2.49]: https://www.bible.com/bible/compare/LUK.2.49
 [samaritans and jews]: https://bible.org/illustration/hatred-between-jews-and-samaritans

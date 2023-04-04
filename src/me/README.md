@@ -114,7 +114,7 @@ I'm not the **stan*** kind of a fan (bad joke :sweat_smile:) but here's my non-e
 - [Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw) (finance)
 - [Business Insider](https://www.youtube.com/user/businessinsider) (finance)
 
-### All time favourites
+### All-time favourites
 
 These cut across learning, entertainment, insight and DIY
 

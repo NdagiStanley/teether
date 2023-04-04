@@ -16,7 +16,7 @@ We have this [team](https://www.youversion.com/careers/) as our pacesetters :sun
 
 Our spiritual father (otherwise referred to as PFA or Papa), officially [Prophet Dr. Fred Akama][pfa] recently announced the [signing of Testimony TV][tv signing] and the team was tasked to park domains for that.
 
-Unfortunately, I hit a snug and the ideal scenario is totally ruined. Until it got fixed!
+Unfortunately, I hit a snug and the ideal scenario was totally ruined until it got fixed!
 
 ## The nitty-gritty
 
@@ -46,11 +46,11 @@ Yes, you saw it right. All of a sudden, [testimony-tv.org](http://testimony-tv.o
 
 I was devastated on two fronts:
 
-- professionally:
+- Professionally:
 
-  I saw it as un-professionalism on my part. I had been a bit easy about the process, not quite prompt with the task. Then the payment gateway locked me out meaning that I could not even buy the available testimony-tv.com
+  I saw it as un-professionalism on my part. I had been a bit easy about the process, not quite prompt with the task. Then the payment gateway locked me out, meaning that I could not even buy the available testimony-tv.com
 
-- spiritually:
+- Spiritually:
 
   First off, [testimony.tv][.tv] had required a price bargain which could have gone over $1500.
 
@@ -62,37 +62,37 @@ I was devastated on two fronts:
   >
   > > The [Bible app][bible app] has been sponsored by one man since 2012! According to Wikipedia, he's the billionaire entrepreneur owner of [Hobby Lobby][hobby lobby] (it might require you to use a VPN to connect), [David Green][david green]). Talk about **Kingdom Financing**!
 
-  Secondly, I felt this was opposition winning! Frustrating the efforts of this ministry in securing online presence.
+  Secondly, I felt this was the opposition winning! Frustrating the efforts of this ministry to secure an online presence.
 
 So what do I do now? :thinking:
 
-## The turn around
+## The turnaround
 
-Pardon me, I'm going to be a bit technical here.
+Pardon me; I'm going to be a bit technical here.
 
-> Steps to victory (You've gotta celebrate your wins, even the small ones) :trophy:
+> Steps to Victory (You've gotta celebrate your wins, even the small ones) :trophy:
 
 ### :detective: WHO IS lookup
 
-After calming down and whispering a short "God intervene", I started with a **WHOIS** lookup. I hoped it would be public. Unfortunately no data could be found by the registrar's service.
+After calming down and whispering a short "God intervene", I started with a **WHOIS** lookup. I hoped it would be public. Unfortunately, no data could be found by the registrar's service.
 
-However, on the terminal I got a clue: [pir.org][pir] :raised_eyebrow:
+However, on the terminal, I got a clue: [pir.org][pir] :raised_eyebrow:
 
 ![whois](../../../.vuepress/public/images/kb/whois.png)
 
 ### :globe_with_meridians: ORG registry
 
-I remembered some news about all **.org** domains. The ORG registry was privatized late that previous year. Here's a [comment][blog-comment] I had shared with my readers on this.
+I remembered some news about all the **.org** domains. The ORG registry was privatized late that previous year. Here's a [comment][blog-comment] I shared with my readers on this.
 
 So what had that got to do with this? I don't know. It wasn't adding up because even with that fact, domain registrars can still sell .org domains.
 
-On a hunch, read Holy Spirit direction, I signed up for an account in a random domain registrar but left it at that saying to myself, "Who am I kidding?"
+On a hunch, read Holy Spirit's direction, I signed up for an account in a random domain registrar but left it at that, saying to myself, "Who am I kidding?"
 
 I gave my mind a break from the concern.
 
 ### :inbox_tray: An email in the night
 
-Sometimes I am a night owl, active at night; in the peace and quiet.
+Sometimes I am a night owl, active at night, in the peace and quiet.
 
 So I get this email:
 
@@ -118,15 +118,15 @@ I liked the parking page they give once you purchase. So much that I just edited
 
 ![TV site part b](../../../.vuepress/public/images/kb/tv-b.png)
 
-> 🧐 I had thought against sharing the domain registrar then I remembered: most techies will simply do a WHOIS lookup so, why go through the trouble. :shrug:
+> 🧐 I had thought against sharing the domain registrar then I remembered: most techies will simply do a WHOIS lookup, so why go through the trouble. :shrug:
 >
 > Check them out: [epik.com][epik] (They call themselves: _the Swiss Bank of domains_ 🇨🇭)
 
-For the record I use multiple domain registrars. I try not to have brand-loyalty with them.
+For the record, I use multiple domain registrars. I try not to have brand loyalty with them.
 
 ---
 
-If this picked your interest, [this series][diy-series] probably will. I take readers through the steps of creating their own web presence from scratch.
+If this piqued your interest, [this series][diy-series] probably will. I take readers through the steps of creating their own web presence from scratch.
 
 [tot]: https://www.tot.church/
 [tech-mail]: mailto:tech@tot.co.ke
