@@ -142,9 +142,10 @@ module.exports = {
       {
         componentsDir: path.resolve(__dirname, './components')
       },
-      googleAnalyticsPlugin({
-        id: 'G-F8VL49KBXF'
-      })
+      '@vuepress/google-analytics',
+      {
+        ga: 'G-F8VL49KBXF' // UA-00000000-0
+      }
     ]
   ]
 }
