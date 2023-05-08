@@ -3,13 +3,13 @@
   <div class="footer center">Stan_MD | AD {{ year }}</div>
 </template>
 <script>
-const d = new Date()
-const currentYear = d.getFullYear()
+const d = new Date();
+const currentYear = d.getFullYear();
 export default {
   data() {
     return {
-      year: currentYear
-    }
-  }
-}
+      year: currentYear,
+    };
+  },
+};
 </script>
