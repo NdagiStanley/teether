@@ -297,6 +297,11 @@
     "@vuepress/core" "2.0.0-beta.37"
     execa "^5.1.1"
 
+"@vuepress/plugin-google-analytics@^2.0.0-beta.61":
+  version "2.0.0-rc.134"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-2.0.0-rc.134.tgz#64002356f8cc66f98d03b037178bab89b98dedda"
+  integrity sha512-kNvxPOfdBhr3ekEOBYsoz73wUyfWXRftvZYJxeu9uGe13RvWrX1ka+VlXwTGqrKYVYBeEvBOC1QV+/UcpFRslQ==
+
 "@vuepress/plugin-medium-zoom@2.0.0-beta.37":
   version "2.0.0-beta.37"
   resolved "https://registry.npmjs.org/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-2.0.0-beta.37.tgz"
@@ -1226,10 +1231,10 @@ postcss@^8.1.10, postcss@^8.4.12, postcss@^8.4.6:
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
-prettier@^2.5.1:
-  version "2.6.2"
-  resolved "https://registry.npmjs.org/prettier/-/prettier-2.6.2.tgz"
-  integrity sha512-PkUpF+qoXTqhOeWL9fu7As8LXsIUZ1WYaJiY/a7McAQzxjk82OF0tibkFXVCDImZtWxbvojFjerkiLb0/q8mew==
+prettier@^3.0.0:
+  version "3.9.8"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.9.8.tgz#54e81128584538c81d85fce9d5fd77a410c385c5"
+  integrity sha512-WRFq3Wn3WId7LLROfMLdH7xaFr2jR62wU8nLO6rQUOLOxNZUviyJQs1M0iIhLexSFy+L+w0ch66wtoO2jRjG0A==
 
 prismjs@^1.27.0:
   version "1.27.0"
